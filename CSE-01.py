@@ -1,7 +1,9 @@
 '''
 Week 02 Tic-Tac-Toe Assignment
 Author: Nelson Familia
+hello
 '''
+
 left_up = 1
 middle_up = 2 
 right_up = 3
